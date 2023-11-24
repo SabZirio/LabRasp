@@ -1,0 +1,6 @@
+@GreenhouseManagementSystem_HostAddress = http://localhost:5263
+
+GET {{GreenhouseManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
